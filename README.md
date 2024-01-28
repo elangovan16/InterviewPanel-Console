@@ -1,4 +1,4 @@
-# Interview Panel Documentation
+# Interview Panel
 
 ## Table of Contents
 
